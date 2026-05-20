@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "donne php",
+			"path": "../donne php"
+		},
+		{
+			"name": "Gestion de notes d'université",
+			"path": "../Gestion de notes d'université"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../gestion de livraison"
+		},
+		{
+			"path": "../MOI"
+		},
+		{
+			"path": "../e-commerce"
+		}
+	],
+	"settings": {
+		"editor.multiCursorMergeOverlapping": true
+	}
+}
